@@ -3,9 +3,9 @@
     Contact: ricardoungureanu@gmail.com
 
     This is my final project for the course 
-        Introduction to Programming from Rice Unviersity
+        An Introduction to Interactive Programming in Python by Rice University
 
-    Play game: http://www.codeskulptor.org/#user16_k3olOgcUDm_7.py
+    Play the game: http://www.codeskulptor.org/#user16_k3olOgcUDm_7.py
 
 '''
 
